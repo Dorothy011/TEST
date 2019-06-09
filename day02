@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>myResume</title>
+	</head>
+	<body>
+		<h2>个人简历</h2>
+		<hr color="#191970" />
+		
+		<h3>基本信息</h3>
+		<hr/>
+		<table>
+			<tr><td>姓名：小杨</td><td>出生日期：1998.7</td></tr>
+			<tr><td>学校：百度前端学院</td><td>学历：一年级在读</td></tr>
+			<tr><td>专业：前端</td><td>籍贯：冰岛</td></tr>
+			<tr><td>电话 ：123****0987</td><td>邮箱：109****45@qq.com</td></tr>
+		</table>
+		
+		<h3>工作经历</h3>
+		<hr />
+			<ul>
+				<li>A项目（2018-2019）</li>
+					<ul>
+						<li>负责收集资料，整理数据，调研工作</li>
+						<li>学会了很多技能</li>
+					</ul>
+				<li>B项目</li>
+					<ul>
+						<li>负责收集资料，整理数据，调研工作</li>
+						<li>学会了很多技能</li>
+					</ul>
+				<li>C项目</li>
+					<ul>
+						<li>负责收集资料，整理数据，调研工作</li>
+						<li>学会了很多技能</li>
+					</ul>
+			</ul>
+		
+		
+		
+		<h3>技能</h3>
+		<hr />
+			<ul>
+				<li>html</li>
+				<li>css</li>
+				<li>javascript</li>
+				<li>office</li>
+			</ul>
+		</div>
+	</body>
+</html>
