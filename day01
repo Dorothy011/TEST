@@ -1,1 +1,12 @@
-<!DOCTYPE>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>firstDay</title>
+	</head>
+	<body>
+	  <h1 style="color:blue">今天是第一天</h1>
+    <h2 style="color:lightseagreen">这是我的第一个任务</h2>
+    <h3>以后一定要继续加油啊</h3>
+	</body>
+</html>
