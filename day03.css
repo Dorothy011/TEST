@@ -1,0 +1,33 @@
+body{
+  width:600px
+}
+h1{
+   text-align : center ;
+   text-shadow : 2px 2px 2px gray ;
+   color : ;
+   letter-spacing : 15px;
+ }
+ul,table{
+  font-family:"Trebuchet MS", Verdana, sans-serif;
+}
+
+td{
+  width: 300px;
+}
+h3{
+  background-color:rgb(237,240,209);
+  line-height:40px
+  text-indent:3em;
+}
+p{
+  text-indent:32px;
+  font-size:15px;
+  line-height:25px;
+}  
+
+a{
+  color:black;
+}
+a:hover{
+  color:blue;
+}
